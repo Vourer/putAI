@@ -2,4 +2,3 @@
 
 Contents:
 - Computed Tomography Simulator
-- Retinal Vessel Extraction from images of fundi of eyes
